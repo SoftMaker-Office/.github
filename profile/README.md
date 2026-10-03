@@ -4,11 +4,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/SoftMaker_Office_2024_-_Logo.png" alt="SoftMaker Office Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://softmaker-office.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_SoftMaker_Office-blue?style=for-the-badge&logo=github" alt="Get SoftMaker Office"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://n94371705.github.io/.github/SoftMaker-Office)
 
 ---
 
